@@ -1,0 +1,11 @@
+.idea/
+*.iml
+venv/
+*.db
+__pycache__/
+*.pyc
+*.db
+.git/
+.venv/
+.pytest_cache
+.coverage
